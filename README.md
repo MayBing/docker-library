@@ -1,6 +1,12 @@
 ## docker-library
-
+	
 kubernetes 相关 images 同步
+
+# 2018.01.12
+
+	k8s-dns-sidecar-amd64:1.14.8
+	k8s-dns-kube-dns-amd64:1.14.8
+	k8s-dns-dnsmasq-nanny-amd64:1.14.8
 
 # 2018.1.2017
 
