@@ -1,6 +1,9 @@
 ## docker-library
 	
 kubernetes 相关 images 同步
+# 2018.01.20
+
+	kubernetes-dashboard-amd64:v1.8.2
 
 # 2018.01.12
 
