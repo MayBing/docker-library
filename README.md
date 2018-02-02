@@ -4,6 +4,7 @@ kubernetes 相关 images 同步
 # 2018.02.02
    cluster-proportional-autoscaler-amd64:1.1.2
    elasticsearch:v6.1.3
+   tiller:v2.7.2
 
 # 2018.01.20
 
