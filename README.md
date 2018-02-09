@@ -1,6 +1,8 @@
 ## docker-library
 	
 kubernetes 相关 images 同步
+# 2018.02.09
+  k8s.gcr.io/fluentd-elasticsearch:v2.0.4
 # 2018.02.07
    giantswarm-tiny-tools:latest
 
