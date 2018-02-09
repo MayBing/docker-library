@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/fluentd-elasticsearch:v2.0.4
+FROM gcr.io/google-containers/fluentd-elasticsearch:v2.0.4
 MAINTAINER zhangshengbing <772458549@qq.com>
