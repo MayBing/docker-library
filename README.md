@@ -1,6 +1,9 @@
 ## docker-library
 	
 kubernetes 相关 images 同步
+# 2018.03.02
+  kubernetes-dashboard-amd64:v1.8.3
+
 # 2018.02.09
   k8s.gcr.io/fluentd-elasticsearch:v2.0.4
 # 2018.02.07
