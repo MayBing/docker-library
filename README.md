@@ -3,6 +3,7 @@
 kubernetes 相关 images 同步
 # 2018.03.02
   kubernetes-dashboard-amd64:v1.8.3
+  kubernetes-helm/tiller:v2.8.1
 
 # 2018.02.09
   k8s.gcr.io/fluentd-elasticsearch:v2.0.4
