@@ -4,6 +4,7 @@ kubernetes 相关 images 同步
 # 2018.03.21
   gcr.io/google_samples/k8skafka:v1
   gcr.io/google_samples/k8szk:v3
+  prom/blackbox-exporter:v0.12.0
 
 # 2018.03.02
   kubernetes-dashboard-amd64:v1.8.3
