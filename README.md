@@ -1,6 +1,10 @@
 ## docker-library
 	
 kubernetes 相关 images 同步
+# 2018.03.21
+  gcr.io/google_samples/k8skafka:v1
+  gcr.io/google_samples/k8szk:v3
+
 # 2018.03.02
   kubernetes-dashboard-amd64:v1.8.3
   kubernetes-helm/tiller:v2.8.1
