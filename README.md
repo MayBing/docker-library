@@ -1,6 +1,8 @@
 ## docker-library
 	
 kubernetes 相关 images 同步
+# 2018.03.24
+  quay.io/coreos/hyperkube:v1.9.6_coreos.0
 # 2018.03.21
   gcr.io/google_samples/k8skafka:v1
   gcr.io/google_samples/k8szk:v3
