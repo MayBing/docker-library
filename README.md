@@ -8,6 +8,11 @@ kubernetes 相关 images 同步
   quay.io/calico/routereflector:v0.4.2
   k8s.gcr.io/k8s-dns-kube-dns-amd64:1.14.10
   gcr.io/google_containers/heapster-amd64:v1.5.2
+  quay.io/external_storage/local-volume-provisioner:v2.0.0
+  quay.io/kubespray/cephfs-provisioner:a71a49d4
+  quay.io/kubernetes-ingress-controller/nginx-ingress-controller:0.13.0
+  quay.io/jetstack/cert-manager-controller:v0.2.4
+  quay.io/jetstack/cert-manager-ingress-shim:v0.2.4
 
 # 2018.03.24
   quay.io/coreos/hyperkube:v1.9.6_coreos.0
