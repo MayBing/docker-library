@@ -7,6 +7,7 @@ kubernetes 相关 images 同步
   quay.io/calico/cni:v1.11.4
   quay.io/calico/routereflector:v0.4.2
   k8s.gcr.io/k8s-dns-kube-dns-amd64:1.14.10
+  gcr.io/google_containers/heapster-amd64:v1.5.2
 
 # 2018.03.24
   quay.io/coreos/hyperkube:v1.9.6_coreos.0
