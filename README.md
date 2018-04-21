@@ -4,6 +4,8 @@ kubernetes 相关 images 同步
 # 20180421
   gcr.io/google-containers/hyperkube:v1.9.7
   quay.io/calico/node:v2.6.8
+  quay.io/calico/cni:v1.11.4
+  quay.io/calico/routereflector:v0.4.2
 
 # 2018.03.24
   quay.io/coreos/hyperkube:v1.9.6_coreos.0
