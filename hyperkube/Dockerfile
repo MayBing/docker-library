@@ -1,2 +1,2 @@
-FROM quay.io/coreos/hyperkube:v1.9.6_coreos.0
+FROM gcr.io/google-containers/hyperkube:v1.9.7
 MAINTAINER zhangshengbing <772458549@qq.com>
