@@ -5,6 +5,9 @@ kubernetes 相关 images 同步
   gcr.io/google-containers/hyperkube:v1.10.4
   FROM gcr.io/kubernetes-helm/tiller:v2.9.1
   k8s.gcr.io/heapster-amd64:v1.5.3
+  k8s.gcr.io/k8s-dns-kube-dns-amd64:1.14.10
+  k8s.gcr.io/k8s-dns-dnsmasq-nanny-amd64:1.14.10
+  k8s.gcr.io/k8s-dns-sidecar-amd64:1.14.10
 # 20180424
   gcr.io/stackdriver-trace-docker/zipkin-collector
 # 20180421
