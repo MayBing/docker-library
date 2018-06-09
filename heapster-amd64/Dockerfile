@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/heapster-amd64:v1.5.2
-MAINTAINER Mosaicwang <mosaicwang@gmail.com>
+FROM k8s.gcr.io/heapster-amd64:v1.5.3
+MAINTAINER Mosaicwang <772458549@qq.com>
