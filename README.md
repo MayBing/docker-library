@@ -9,6 +9,7 @@ kubernetes 相关 images 同步
   k8s.gcr.io/k8s-dns-dnsmasq-nanny-amd64:1.14.10
   k8s.gcr.io/k8s-dns-sidecar-amd64:1.14.10
   k8s.gcr.io/cluster-proportional-autoscaler-amd64:1.1.2-r2
+  quay.io/kubernetes-ingress-controller/nginx-ingress-controller:0.14.0
 # 20180424
   gcr.io/stackdriver-trace-docker/zipkin-collector
 # 20180421
