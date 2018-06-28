@@ -1,2 +1,2 @@
-FROM quay.io/jetstack/cert-manager-controller:v0.2.4
+FROM quay.io/jetstack/cert-manager-controller:v0.3.0
 MAINTAINER zhangshengbing <772458549@qq.com>
