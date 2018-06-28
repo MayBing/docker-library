@@ -3,6 +3,7 @@
 kubernetes 相关 images 同步
 #20180628
   quay.io/jetstack/cert-manager-controller:v0.3.0
+  quay.io/kubernetes-ingress-controller/nginx-ingress-controller:0.15.0
 #20180609
   gcr.io/google-containers/hyperkube:v1.10.4
   FROM gcr.io/kubernetes-helm/tiller:v2.9.1
