@@ -3,6 +3,8 @@
 kubernetes 相关 images 同步
 #20180711
   gcr.io/google_containers/cluster-proportional-autoscaler-amd64:1.1.2
+  FROM quay.io/external_storage/cephfs-provisioner:v1.1.0-k8s1.10
+  quay.io/kubernetes-ingress-controller/nginx-ingress-controller:0.16.2
 #20180628
   quay.io/jetstack/cert-manager-controller:v0.3.0
   quay.io/kubernetes-ingress-controller/nginx-ingress-controller:0.15.0
