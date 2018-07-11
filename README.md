@@ -1,6 +1,8 @@
 ## docker-library
 	
 kubernetes 相关 images 同步
+#20180711
+  gcr.io/google_containers/cluster-proportional-autoscaler-amd64:1.1.2
 #20180628
   quay.io/jetstack/cert-manager-controller:v0.3.0
   quay.io/kubernetes-ingress-controller/nginx-ingress-controller:0.15.0
