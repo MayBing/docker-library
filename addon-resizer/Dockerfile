@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/addon-resizer:1.8.1
-MAINTAINER Mosaicwang <mosaicwang@gmail.com>
+FROM k8s.gcr.io/addon-resizer:1.8.2
+MAINTAINER zhangshengbing <772458549@qq.com>
