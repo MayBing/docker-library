@@ -1,6 +1,9 @@
 ## docker-library
 	
 kubernetes 相关 images 同步
+#20180731
+  k8s.gcr.io/heapster-amd64:v1.5.4  
+  k8s.gcr.io/elasticsearch:v6.2.5
 #20180711
   gcr.io/google_containers/cluster-proportional-autoscaler-amd64:1.1.2
   quay.io/external_storage/cephfs-provisioner:v1.1.0-k8s1.10

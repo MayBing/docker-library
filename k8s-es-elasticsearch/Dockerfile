@@ -1,2 +1,2 @@
-FROM gcr.io/google-containers/elasticsearch:v6.1.3
+FROM k8s.gcr.io/elasticsearch:v6.2.5
 MAINTAINER zhangshengbing <772458549@qq.com>
