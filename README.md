@@ -1,6 +1,17 @@
 ## docker-library
 	
 kubernetes 相关 images 同步
+#20180801
+  gcr.io/istio-release/proxy_init:1.0.0
+  gcr.io/istio-release/proxyv2:1.0.0
+  gcr.io/istio-release/galley:1.0.0
+  gcr.io/istio-release/grafana:1.0.0
+  gcr.io/istio-release/mixer:1.0.0
+  gcr.io/istio-release/pilot:1.0.0
+  gcr.io/istio-release/citadel:1.0.0
+  gcr.io/istio-release/servicegraph:1.0.0
+  gcr.io/istio-release/sidecar_injector:1.0.0
+  gcr.io/istio-release/proxy_debug:1.0.0
 #20180731
   k8s.gcr.io/heapster-amd64:v1.5.4  
   k8s.gcr.io/elasticsearch:v6.2.5
