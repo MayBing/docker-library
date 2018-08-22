@@ -1,6 +1,12 @@
 ## docker-library
 	
 kubernetes 相关 images 同步
+#20180822
+  gcr.io/google-containers/hyperkube-amd64:v1.11.2  
+  quay.io/external_storage/local-volume-provisioner:v2.1.0  
+  quay.io/external_storage/cephfs-provisioner:v2.0.1-k8s1.11  
+  quay.io/kubernetes-ingress-controller/nginx-ingress-controller:0.18.0  
+  quay.io/jetstack/cert-manager-controller:v0.4.1  
 #20180801
   gcr.io/istio-release/proxy_init:1.0.0
   gcr.io/istio-release/proxyv2:1.0.0
