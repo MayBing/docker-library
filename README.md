@@ -11,6 +11,7 @@ kubernetes 相关 images 同步
   quay.io/coreos/flannel:v0.10.0  
   quay.io/coreos/flannel-cni:v0.3.0  
   gcr.io/google-containers/hyperkube-amd64:v1.11.3  
+  gcr.io/google_containers/pause-amd64:3.1  
   
 #20180903
   gcr.io/google_containers/kubernetes-dashboard-amd64:v1.10.0  
