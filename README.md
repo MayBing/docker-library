@@ -7,7 +7,9 @@ kubernetes 相关 images 同步
   quay.io/calico/ctl:v3.2.2  
   quay.io/calico/cni:v3.2.2
   quay.io/calico/kube-controllers:v3.2.2
-  quay.io/calico/routereflector:v0.6.3
+  quay.io/calico/routereflector:v0.6.3  
+  quay.io/coreos/flannel:v0.10.0  
+  quay.io/coreos/flannel-cni:v0.3.0  
   
 #20180903
   gcr.io/google_containers/kubernetes-dashboard-amd64:v1.10.0  
