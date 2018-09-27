@@ -1,7 +1,15 @@
 ## docker-library
 	
 kubernetes 相关 images 同步
-#20180093
+#20180927
+  quay.io/coreos/etcd:v3.2.18  
+  quay.io/calico/node:v3.2.2  
+  quay.io/calico/ctl:v3.2.2  
+  quay.io/calico/cni:v3.2.2
+  quay.io/calico/kube-controllers:v3.2.2
+  quay.io/calico/routereflector:v0.6.3
+  
+#20180903
   gcr.io/google_containers/kubernetes-dashboard-amd64:v1.10.0  
   docker.elastic.co/kibana/kibana-oss:6.3.2  
   k8s.gcr.io/fluentd-elasticsearch:v2.2.0  
