@@ -15,6 +15,7 @@ kubernetes 相关 images 同步
   gcr.io/google_containers/k8s-dns-kube-dns-amd64:1.14.11  
   gcr.io/google_containers/k8s-dns-dnsmasq-nanny-amd64:1.14.11  
   gcr.io/google_containers/k8s-dns-sidecar-amd64:1.14.11  
+  quay.io/jetstack/cert-manager-controller:v0.5.0  
   
 #20180903
   gcr.io/google_containers/kubernetes-dashboard-amd64:v1.10.0  
