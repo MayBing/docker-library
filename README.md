@@ -1,6 +1,9 @@
 ## docker-library
 	
 kubernetes 相关 images 同步
+#20181010
+  gcr.io/google-containers/hyperkube-amd64:v1.12.1  
+  
 #20180927
   quay.io/coreos/etcd:v3.2.18  
   quay.io/calico/node:v3.2.2  
