@@ -1,11 +1,11 @@
 ## docker-library
 	
 kubernetes 相关 images 同步
-#20181010 
+# 20181010 
 
   gcr.io/google-containers/hyperkube-amd64:v1.12.1  
   
-#20180927
+# 20180927
 
   quay.io/coreos/etcd:v3.2.18  
   quay.io/calico/node:v3.2.2  
@@ -23,14 +23,14 @@ kubernetes 相关 images 同步
   quay.io/jetstack/cert-manager-controller:v0.5.0 
   quay.io/kubernetes-ingress-controller/nginx-ingress-controller:0.19.0   
   
-#20180903  
+# 20180903  
 
   gcr.io/google_containers/kubernetes-dashboard-amd64:v1.10.0  
   docker.elastic.co/kibana/kibana-oss:6.3.2  
   k8s.gcr.io/fluentd-elasticsearch:v2.2.0  
   k8s.gcr.io/elasticsearch:v6.2.5  
   
-#20180822  
+# 20180822  
 
   gcr.io/google-containers/hyperkube-amd64:v1.11.2  
   quay.io/external_storage/local-volume-provisioner:v2.1.0  
@@ -38,7 +38,7 @@ kubernetes 相关 images 同步
   quay.io/kubernetes-ingress-controller/nginx-ingress-controller:0.18.0  
   quay.io/jetstack/cert-manager-controller:v0.4.1  
   
-#20180801
+# 20180801
 
   gcr.io/istio-release/proxy_init:1.0.0
   gcr.io/istio-release/proxyv2:1.0.0
@@ -51,23 +51,23 @@ kubernetes 相关 images 同步
   gcr.io/istio-release/sidecar_injector:1.0.0
   gcr.io/istio-release/proxy_debug:1.0.0
   
-#20180731
+# 20180731
 
   k8s.gcr.io/heapster-amd64:v1.5.4  
   k8s.gcr.io/elasticsearch:v6.2.5
   
-#20180711
+# 20180711
 
   gcr.io/google_containers/cluster-proportional-autoscaler-amd64:1.1.2
   quay.io/external_storage/cephfs-provisioner:v1.1.0-k8s1.10
   quay.io/kubernetes-ingress-controller/nginx-ingress-controller:0.16.2
   k8s.gcr.io/addon-resizer:1.8.2
   
-#20180628
+# 20180628
 
   quay.io/jetstack/cert-manager-controller:v0.3.0
   quay.io/kubernetes-ingress-controller/nginx-ingress-controller:0.15.0
-#20180609
+# 20180609
 
   gcr.io/google-containers/hyperkube:v1.10.4
   gcr.io/kubernetes-helm/tiller:v2.9.1
