@@ -2,14 +2,14 @@
 	
 kubernetes 相关 images 同步
 # 20190423
-  k8s.gcr.io/addon-resizer:1.8.3
-  gcr.io/google_containers/cluster-proportional-autoscaler-amd64:1.4.0
-  gcr.io/google_containers/kubernetes-dashboard-amd64:v1.10.1
-  gcr.io/kubernetes-helm/tiller:v2.13.1
-  k8s.gcr.io/metrics-server-amd64:v0.3.1
-  gcr.io/kubernetes-helm/tiller:v2.13.1
-  gcr.io/google_containers/kube-registry-proxy:0.4
-  k8s.gcr.io/k8s-dns-node-cache:1.15.1
+  k8s.gcr.io/addon-resizer:1.8.3 
+  gcr.io/google_containers/cluster-proportional-autoscaler-amd64:1.4.0 
+  gcr.io/google_containers/kubernetes-dashboard-amd64:v1.10.1 
+  gcr.io/kubernetes-helm/tiller:v2.13.1 
+  k8s.gcr.io/metrics-server-amd64:v0.3.1 
+  gcr.io/kubernetes-helm/tiller:v2.13.1 
+  gcr.io/google_containers/kube-registry-proxy:0.4 
+  k8s.gcr.io/k8s-dns-node-cache:1.15.1  
 
 # 20181010 
 
