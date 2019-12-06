@@ -6,6 +6,7 @@ kubernetes 相关 images 同步
   gcr.io/google_containers/kube-controller-manager-amd64:v1.16.3  
   gcr.io/google_containers/kube-scheduler-amd64:v1.16.3  
   gcr.io/google_containers/kube-proxy-amd64:v1.16.3  
+  gcr.io/google_containers/cluster-proportional-autoscaler-amd64:1.6.0
   
 # 20190430
   gcr.io/google_containers/kube-apiserver-amd64:v1.14.1  
