@@ -1,2 +1,2 @@
-FROM quay.io/coreos/etcd:v3.2.18
+FROM quay.io/coreos/etcd:v3.3.10
 MAINTAINER MayBing <772458549@qq.com>

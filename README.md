@@ -1,13 +1,19 @@
 ## docker-library
 	
 kubernetes 相关 images 同步
-# 20191206
-  gcr.io/google_containers/kube-apiserver-amd64:v1.16.3  
-  gcr.io/google_containers/kube-controller-manager-amd64:v1.16.3  
-  gcr.io/google_containers/kube-scheduler-amd64:v1.16.3  
-  gcr.io/google_containers/kube-proxy-amd64:v1.16.3  
-  gcr.io/google_containers/cluster-proportional-autoscaler-amd64:1.6.0
-  
+# 20191206  
+  gcr.io/google_containers/kube-apiserver-amd64:v1.16.3    
+  gcr.io/google_containers/kube-controller-manager-amd64:v1.16.3    
+  gcr.io/google_containers/kube-scheduler-amd64:v1.16.3    
+  gcr.io/google_containers/kube-proxy-amd64:v1.16.3    
+  gcr.io/google_containers/cluster-proportional-autoscaler-amd64:1.6.0  
+  gcr.io/kubernetes-helm/tiller:v2.16.0  
+  k8s.gcr.io/metrics-server-amd64:v0.3.3  
+  k8s.gcr.io/k8s-dns-node-cache:1.15.5  
+  quay.io/coreos/flannel:v0.11.0  
+  quay.io/coreos/etcd:v3.3.10  
+  quay.io/jetstack/cert-manager-controller:v0.11.0  
+  quay.io/kubernetes-ingress-controller/nginx-ingress-controller:0.26.1   
 # 20190430
   gcr.io/google_containers/kube-apiserver-amd64:v1.14.1  
   gcr.io/google_containers/kube-controller-manager-amd64:v1.14.1  
@@ -20,7 +26,7 @@ kubernetes 相关 images 同步
   gcr.io/kubernetes-helm/tiller:v2.13.1 
   k8s.gcr.io/metrics-server-amd64:v0.3.1 
   gcr.io/google_containers/kube-registry-proxy:0.4 
-  k8s.gcr.io/k8s-dns-node-cache:1.15.1  
+  k8s.gcr.io/k8s-dns-node-cache:1.15.5  
 
 # 20181010 
 
