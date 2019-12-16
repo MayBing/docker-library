@@ -1,6 +1,8 @@
 ## docker-library
 	
 kubernetes 相关 images 同步
+# 20191216
+  k8s.gcr.io/k8s-dns-node-cache:1.15.8 
 # 20191206  
   gcr.io/google_containers/kube-apiserver-amd64:v1.16.3    
   gcr.io/google_containers/kube-controller-manager-amd64:v1.16.3    
